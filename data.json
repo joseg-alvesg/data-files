@@ -120,7 +120,7 @@
       }
     },
     "images": {
-      "me": "https://github.com/joseg-alvesg/data-files/blob/main/images/foto-eu.png"
+      "me": "https://raw.githubusercontent.com/joseg-alvesg/data-files/main/images/foto-eu.png"
     },
     "softSkill": {}
   }
